@@ -12,7 +12,7 @@ Isso aqui está um pouco desatualizado mas prometo que em breve irei atualizar. 
   </a>  
 </div>
 
-### Algumas linguagens que gosto
+### Algumas linguagens que eu gosto:
 <div>
   <img alt="Java" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
   <img alt="Python" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg">
